@@ -5,7 +5,7 @@ setlocal
 set "REPO_URL=https://github.com/flameblast12/DeadlockKRLocalization"
 
 :: ZIP 파일 다운로드 및 압축 해제
-curl -L -o repo.zip %REPO_URL%/archive/refs/heads/master.zip
+curl -k -L -o repo.zip %REPO_URL%/archive/refs/heads/master.zip
 
 powershell -command "Expand-Archive -Path 'repo.zip' -DestinationPath '.'"
 
