@@ -1163,7 +1163,7 @@
 
 		"citadel_ability_sticky_bomb"			"끈끈이 폭탄"
 		"citadel_ability_sticky_bomb_quip"		"적에게 폭탄을 부착합니다."
-		"citadel_ability_sticky_bomb_desc"		"근처의 대상에게 끈끈이 폭탄을 붙여 짧은 지연 시간 후에 <span class=\"highlight\">폭발 피해</span>를 입힙니다. <br> 적 영웅이 맞을 때마다 영구적으로 <span class=\"highlight\"> 폭탄 피해가 +{s:BonusDamagePctPerPlayerHit}% 증가</span>합니다. (최대 {s:BonusMaxStacks} 중첩) 사망 시 중첩을 {s:BonusLossPerDeath} 잃습니다.  <br> [{s:key_alt_cast}]를 사용해 자신에 끈끈이 폭탄을 붙일 수 있습니다."
+		"citadel_ability_sticky_bomb_desc"		"근처의 대상에게 끈끈이 폭탄을 붙여 짧은 지연 시간 후에 <span class=\"highlight\">폭발 피해</span>를 입힙니다. <br> 적 영웅이 맞을 때마다 영구적으로 <span class=\"highlight\"> 폭탄 피해가 +{s:BonusDamagePctPerPlayerHit}% 증가</span>합니다. 사망 시 중첩을 {s:BonusLossPerDeath} 잃습니다.  <br> [{s:key_alt_cast}]를 사용해 자신에 끈끈이 폭탄을 붙일 수 있습니다."
 		"modifier_citadel_sticky_bomb_attached"	"폭탄 부착됨"
 		"citadel_ability_sticky_bomb_t3_desc"	"부착 시, <span class=\"highlight\">대상을 무장 해제</span>시킴. {s:DebuffDuration}초 지속"
 		"StunTargetOnExplode_label"				"지속 시간"
@@ -1182,7 +1182,7 @@
 
 		"citadel_ability_hook"					"갈고리손"
 		"citadel_ability_hook_quip"				"대상을 자신에게 당깁니다."
-		"citadel_ability_hook_desc"				"갈고리손을 발사하여 <span class=\"highlight\">처음으로 적중한 적 영웅을 잡아당기고</span>, 적의 경우 피해를 입힙니다. <br>대상은 당신이 바라보는 위치로 당겨집니다."
+		"citadel_ability_hook_desc"				"갈고리손을 발사하여 <span class=\"highlight\">처음으로 적중한 대상을 잡아당기고</span>, 적의 경우 피해를 입힙니다. <br>대상은 당신이 바라보는 위치로 당겨집니다."
 		"citadel_ability_hook_t1_desc"			"갈고리손으로 적을 잡으면 {s:BulletAmp}% <span class=\"highlight\">총알 피해 증가</span>. {s:BulletAmpDuration}초 지속"
 		"BulletShieldOnHook_label"				"총탄 보호막"
 		//"BulletShieldOnHook_postfix"				"HP"
@@ -2562,7 +2562,7 @@
 		"viscous_goo_bowling_ball_quip"					"굴러다니며 혼란을 일으킵니다."
 		"viscous_goo_bowling_ball_t3_desc"				"구르면서 능력과 아이템을 사용할 수 있음"
 
-		"viscous_telepunch""Puddle Punch"
+		"viscous_telepunch"								"웅덩이 주먹"
 		"viscous_telepunch_desc"						"지형에서 거대한 <span class=\"highlight\">주먹이 솟아나</span> 맞은 유닛을 날려버립니다. 적에게 <span class=\"highlight\">피해를 주고</span> 잠시 동안 대시 거리를 줄이며 <span class=\"highlight\">이동 속도를 둔화</span>시킵니다. 이 공격은 <span class=\"highlight\">일반 근접 공격</span>으로 간주됩니다."
 		"viscous_telepunch_quip"						"거대한 주먹으로 적을 날려버립니다."
 		"viscous_telepunch_t2_desc"						"+{s:Damage} 피해 및 +{s:SlowPercent}% 이동 둔화"

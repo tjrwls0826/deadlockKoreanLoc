@@ -202,7 +202,7 @@
 		"StatDesc_DebuffResist_postfix"					"%"
 		"StatDesc_HealingOutput"						"치유 증폭"
 		"StatDesc_HealingOutput_postfix"				"%"
-		"StatDesc_CritDamageBonusScale"					"Crit Bonus Scale"
+		"StatDesc_CritDamageBonusScale"					"치명타 추가 피해"
 		"StatDesc_CritDamageBonusScale_postfix"			"%"
 
 		"StatDesc_BulletSpeed"							"총탄 속도"
@@ -453,7 +453,7 @@
 		"BonusMoveSpeed_label"						"이동 속도"
 		"BonusMoveSpeed_postfix"						" m/s"
 		
-		"TeleporterBonus"							"Bonus Movespeed!"
+		"TeleporterBonus"							"추가 이동 속도!"
 		"RunSpeed_postfix"						" m/s"
 
 		"WeaponRange_label"							"무기 사거리"
